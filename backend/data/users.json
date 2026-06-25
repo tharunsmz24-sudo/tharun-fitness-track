@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Tharun",
+    "email": "tharuns.mz24@bitsathy.ac.in",
+    "password": "$2a$10$2K7nTS8JWlv0bQr2GXUEFuogX0RbuQr8ZOuI0sQwmhpVMGjgvYIH6",
+    "height": 0,
+    "weight": 0,
+    "targetWeight": 0,
+    "weightHistory": [],
+    "role": "user",
+    "_id": "fbb9f893ff87ff14d2d08365",
+    "createdAt": "2026-06-24T09:30:13.574Z",
+    "updatedAt": "2026-06-24T09:30:13.574Z"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "userId": "fbb9f893ff87ff14d2d08365",
+    "type": "Steps",
+    "targetValue": 1400,
+    "currentValue": 0,
+    "deadline": "2026-07-01T00:00:00.000Z",
+    "status": "Active",
+    "_id": "15c89ac72c56b7c0375cb455",
+    "createdAt": "2026-06-24T10:02:09.559Z",
+    "updatedAt": "2026-06-24T10:02:09.559Z"
+  },
+  {
+    "userId": "fbb9f893ff87ff14d2d08365",
+    "type": "Weight",
+    "targetValue": 80,
+    "currentValue": 0,
+    "deadline": "2026-07-01T00:00:00.000Z",
+    "status": "Active",
+    "_id": "0575825b8993b8a2e537cbfb",
+    "createdAt": "2026-06-24T10:02:26.523Z",
+    "updatedAt": "2026-06-24T10:02:26.523Z"
+  }
+]

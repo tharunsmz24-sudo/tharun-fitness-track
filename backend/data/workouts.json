@@ -1,0 +1,156 @@
+[
+  {
+    "userId": "fbb9f893ff87ff14d2d08365",
+    "category": "Gym",
+    "duration": 50,
+    "caloriesBurned": 368,
+    "notes": "",
+    "date": "2026-06-24T00:00:00.000Z",
+    "_id": "77aed5cd2eba9a1faeed30a8",
+    "createdAt": "2026-06-24T09:37:32.859Z",
+    "updatedAt": "2026-06-24T09:41:44.604Z"
+  },
+  {
+    "userId": "fbb9f893ff87ff14d2d08365",
+    "category": "Walking",
+    "duration": 50,
+    "caloriesBurned": 233,
+    "notes": "",
+    "date": "2026-06-24T00:00:00.000Z",
+    "_id": "f3ce0e033b35d39707f88f90",
+    "createdAt": "2026-06-24T09:37:34.377Z",
+    "updatedAt": "2026-06-24T09:41:51.334Z"
+  },
+  {
+    "userId": "fbb9f893ff87ff14d2d08365",
+    "category": "Gym",
+    "duration": 50,
+    "caloriesBurned": 368,
+    "notes": "",
+    "date": "2026-06-24T00:00:00.000Z",
+    "_id": "8aefbd87bd74da30df0d0fd2",
+    "createdAt": "2026-06-24T09:37:37.398Z",
+    "updatedAt": "2026-06-24T09:37:37.398Z"
+  },
+  {
+    "userId": "fbb9f893ff87ff14d2d08365",
+    "category": "Gym",
+    "duration": 45,
+    "caloriesBurned": 331,
+    "notes": "",
+    "date": "2026-06-24T00:00:00.000Z",
+    "_id": "eacde36ab6d603349b26ac54",
+    "createdAt": "2026-06-24T09:39:55.412Z",
+    "updatedAt": "2026-06-24T09:39:55.412Z"
+  },
+  {
+    "userId": "fbb9f893ff87ff14d2d08365",
+    "category": "Gym",
+    "duration": 45,
+    "caloriesBurned": 331,
+    "notes": "",
+    "date": "2026-06-24T00:00:00.000Z",
+    "_id": "07d835bc56dbf92b777960ee",
+    "createdAt": "2026-06-24T09:39:56.420Z",
+    "updatedAt": "2026-06-24T09:39:56.421Z"
+  },
+  {
+    "userId": "fbb9f893ff87ff14d2d08365",
+    "category": "Gym",
+    "duration": 45,
+    "caloriesBurned": 331,
+    "notes": "nill",
+    "date": "2026-06-24T00:00:00.000Z",
+    "_id": "c6e8b7274d90d64c484d8d89",
+    "createdAt": "2026-06-24T09:40:03.058Z",
+    "updatedAt": "2026-06-24T09:40:03.058Z"
+  },
+  {
+    "userId": "fbb9f893ff87ff14d2d08365",
+    "category": "Gym",
+    "duration": 45,
+    "caloriesBurned": 331,
+    "notes": "nill",
+    "date": "2026-06-24T00:00:00.000Z",
+    "_id": "53ce24407fd397664136b4bc",
+    "createdAt": "2026-06-24T09:40:04.035Z",
+    "updatedAt": "2026-06-24T09:40:04.035Z"
+  },
+  {
+    "userId": "fbb9f893ff87ff14d2d08365",
+    "category": "Gym",
+    "duration": 45,
+    "caloriesBurned": 331,
+    "notes": "nill",
+    "date": "2026-06-24T00:00:00.000Z",
+    "_id": "c3139db84d5fda7aef884501",
+    "createdAt": "2026-06-24T09:40:04.468Z",
+    "updatedAt": "2026-06-24T09:40:04.468Z"
+  },
+  {
+    "userId": "fbb9f893ff87ff14d2d08365",
+    "category": "Gym",
+    "duration": 45,
+    "caloriesBurned": 331,
+    "notes": "nill",
+    "date": "2026-06-24T00:00:00.000Z",
+    "_id": "2d1d649cc6e90c8c7c255410",
+    "createdAt": "2026-06-24T09:40:04.627Z",
+    "updatedAt": "2026-06-24T09:40:04.627Z"
+  },
+  {
+    "userId": "fbb9f893ff87ff14d2d08365",
+    "category": "Gym",
+    "duration": 45,
+    "caloriesBurned": 331,
+    "notes": "nill",
+    "date": "2026-06-24T00:00:00.000Z",
+    "_id": "cc231cc8fb4a19308b91e5fa",
+    "createdAt": "2026-06-24T09:40:04.819Z",
+    "updatedAt": "2026-06-24T09:40:04.819Z"
+  },
+  {
+    "userId": "fbb9f893ff87ff14d2d08365",
+    "category": "Gym",
+    "duration": 45,
+    "caloriesBurned": 331,
+    "notes": "nill",
+    "date": "2026-06-24T00:00:00.000Z",
+    "_id": "1eca4e2bcc353c6fe1ffbda3",
+    "createdAt": "2026-06-24T09:40:05.178Z",
+    "updatedAt": "2026-06-24T09:40:05.178Z"
+  },
+  {
+    "userId": "fbb9f893ff87ff14d2d08365",
+    "category": "Gym",
+    "duration": 45,
+    "caloriesBurned": 331,
+    "notes": "nill",
+    "date": "2026-06-24T00:00:00.000Z",
+    "_id": "3359edb249fcb56de7525c0a",
+    "createdAt": "2026-06-24T09:40:05.322Z",
+    "updatedAt": "2026-06-24T09:40:05.322Z"
+  },
+  {
+    "userId": "fbb9f893ff87ff14d2d08365",
+    "category": "Gym",
+    "duration": 45,
+    "caloriesBurned": 331,
+    "notes": "nill",
+    "date": "2026-06-24T00:00:00.000Z",
+    "_id": "052b9b75c5dbf46ce669b205",
+    "createdAt": "2026-06-24T09:40:05.451Z",
+    "updatedAt": "2026-06-24T09:40:05.451Z"
+  },
+  {
+    "userId": "fbb9f893ff87ff14d2d08365",
+    "category": "Gym",
+    "duration": 45,
+    "caloriesBurned": 331,
+    "notes": "nill",
+    "date": "2026-06-24T00:00:00.000Z",
+    "_id": "e315ca407a0f477cc4303f1c",
+    "createdAt": "2026-06-24T09:40:05.677Z",
+    "updatedAt": "2026-06-24T09:40:05.677Z"
+  }
+]

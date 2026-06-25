@@ -1,0 +1,20 @@
+[
+  {
+    "userId": "fbb9f893ff87ff14d2d08365",
+    "title": "🎉 Goal Completed: Steps!",
+    "message": "Congratulations! You reached your goal of 1400 steps!",
+    "type": "GoalAlert",
+    "_id": "1bfe4b8e825d66d2fdc4b1e7",
+    "createdAt": "2026-06-24T10:02:53.835Z",
+    "updatedAt": "2026-06-24T10:02:53.835Z"
+  },
+  {
+    "userId": "fbb9f893ff87ff14d2d08365",
+    "title": "🎉 Goal Completed: Steps!",
+    "message": "Congratulations! You reached your goal of 1400 steps!",
+    "type": "GoalAlert",
+    "_id": "f645f12a7d7907a60341908f",
+    "createdAt": "2026-06-24T10:02:53.844Z",
+    "updatedAt": "2026-06-24T10:02:53.844Z"
+  }
+]

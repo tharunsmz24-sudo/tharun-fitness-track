@@ -1,0 +1,14 @@
+[
+  {
+    "userId": "fbb9f893ff87ff14d2d08365",
+    "date": "2026-06-24T09:36:45.422Z",
+    "steps": 31000,
+    "distance": 23.25,
+    "activeMinutes": 645,
+    "sleepDuration": 0,
+    "waterIntake": 1000,
+    "_id": "5df018ebaa21d0e9bdc5accb",
+    "createdAt": "2026-06-24T09:36:45.422Z",
+    "updatedAt": "2026-06-24T10:07:05.365Z"
+  }
+]
