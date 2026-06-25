@@ -3,6 +3,10 @@ import axios from 'axios';
 
 export const AuthContext = createContext();
 
+// In production (GitHub Pages), API calls go to the deployed Render backend.
+// In development, Vite proxy handles /api -> http://127.0.0.1:5000
+const API_BASE = import.meta.env.VITE_API_URL || '';
+
 export const AuthProvider = ({ children }) => {
   const [user, setUser] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -18,7 +22,7 @@ export const AuthProvider = ({ children }) => {
   const login = async (email, password) => {
     try {
       const config = { headers: { 'Content-Type': 'application/json' } };
-      const { data } = await axios.post('/api/auth/login', { email, password }, config);
+      const { data } = await axios.post(`${API_BASE}/api/auth/login`, { email, password }, config);
       setUser(data);
       localStorage.setItem('userInfo', JSON.stringify(data));
       return { success: true };
@@ -30,7 +34,7 @@ export const AuthProvider = ({ children }) => {
   const register = async (name, email, password, height, weight) => {
     try {
       const config = { headers: { 'Content-Type': 'application/json' } };
-      const { data } = await axios.post('/api/auth/register', { name, email, password, height, weight }, config);
+      const { data } = await axios.post(`${API_BASE}/api/auth/register`, { name, email, password, height, weight }, config);
       setUser(data);
       localStorage.setItem('userInfo', JSON.stringify(data));
       return { success: true };
