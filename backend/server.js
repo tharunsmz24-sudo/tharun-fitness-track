@@ -13,7 +13,22 @@ connectDB();
 const app = express();
 
 // Middleware
-app.use(cors());
+// Allow requests from GitHub Pages frontend + localhost dev
+const allowedOrigins = [
+  'https://tharunsmz24-sudo.github.io',
+  'http://localhost:3000',
+  'http://localhost:5173',
+];
+app.use(cors({
+  origin: (origin, callback) => {
+    if (!origin || allowedOrigins.includes(origin)) {
+      callback(null, true);
+    } else {
+      callback(new Error('Not allowed by CORS'));
+    }
+  },
+  credentials: true,
+}));
 app.use(express.json({ limit: '10mb' })); // support large base64 uploads for avatars
 
 // Basic Route for testing
@@ -23,6 +38,11 @@ app.get('/', (req, res) => {
     version: '1.0.0',
     status: 'Running'
   });
+});
+
+// Health check for Render
+app.get('/api/health', (req, res) => {
+  res.status(200).json({ status: 'ok', uptime: process.uptime() });
 });
 
 // Mount Routers
